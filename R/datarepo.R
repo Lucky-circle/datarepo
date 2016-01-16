@@ -18,12 +18,12 @@ options("dratRepo" = "~/GitHub/datarepo")
 # ... 
 #
 
-insertPackage("~/GitHub/imudata_0.1.1.zip",    # Binary 
+insertPackage("~/GitHub/imudata_1.0.0.zip",    # Binary 
               repodir = "~/GitHub/datarepo",   # Location of git repo to commit to
               action="prune",                  # Remove old version
               commit = T)                      # Commit to repo
 
-insertPackage("~/GitHub/imudata_0.1.1.tar.gz", # Package source
+insertPackage("~/GitHub/imudata_1.0.0.tar.gz", # Package source
               repodir = "~/GitHub/datarepo",   # Location of git repo to commit to
               action="prune",                  # Remove old version in repo
               commit = T)                      # Commit to repo

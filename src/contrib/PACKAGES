@@ -1,8 +1,8 @@
 Package: imudata
-Version: 0.1.1
+Version: 1.0.0
 Depends: R (>= 3.2)
 Suggests: gmwm
 License: file LICENSE
-MD5sum: 3aee86353ab7d36066f2675018fea9e6
+MD5sum: 88c542836a5d27f95085bb4e689ef736
 NeedsCompilation: no
 
