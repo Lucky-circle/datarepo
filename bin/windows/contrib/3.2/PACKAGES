@@ -1,6 +1,0 @@
-Package: imudata
-Version: 1.0.0
-Depends: R (>= 3.2)
-Suggests: gmwm
-License: file LICENSE
-
