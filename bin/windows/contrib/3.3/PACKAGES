@@ -1,0 +1,9 @@
+Package: gmwm
+Version: 3.0.0.1000
+Depends: R (>= 3.3), ggplot2 (>= 2.1.0)
+Imports: Rcpp (>= 0.12.7), scales, grid, reshape2, utils, stats, methods, graphics, grDevices, balamuta
+LinkingTo: Rcpp, RcppArmadillo
+Suggests: testthat, knitr, rmarkdown, imudata (>= 2.0.0)
+License: AGPL-3
+Archs: i386, x64
+
