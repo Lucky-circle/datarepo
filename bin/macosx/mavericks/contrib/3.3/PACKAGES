@@ -6,5 +6,5 @@ Imports: Rcpp (>= 0.12.7), scales, grid, reshape2, utils, stats, methods, graphi
 LinkingTo: Rcpp, RcppArmadillo
 Suggests: testthat, knitr, rmarkdown, imudata (>= 2.0.0)
 License: AGPL-3
-MD5sum: 1c59db078e1d7933a09dc4bdec0a1c1e
+MD5sum: 9f1d6b38aa96d3b63275932df5207a5e
 
